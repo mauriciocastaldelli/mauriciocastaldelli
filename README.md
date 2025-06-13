@@ -1,10 +1,10 @@
-## Olá 👋
+# Olá 👋
 
 - 😄 Meu nome é Mauricio e tenho 22 anos
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 💻 Entusiasta de tecnologia
 
-# Skills
+## Linguagens e skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## Contato
+## Entre em contato
 
 <p align="left">
   <a href="mailto:mauricioquideroli@hotmail.com" title="Gmail">
