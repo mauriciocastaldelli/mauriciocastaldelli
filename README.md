@@ -17,8 +17,14 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## Onde me encontrar
+## Contato
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-quideroli-3b3229295/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/mauricio-quideroli-3b3229295/))
-
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mailto:mauricioquideroli@hotmail.com)
+<p align="left">
+  <a href="mailto:mauricioquideroli@hotmail.com" title="Gmail">
+    <img src="https://img.shields.io/static/v1?label=Email&message=mauricioquideroli@hotmail.com&color=ffffff&style=for-the-badge" alt="Email" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/mauricio-quideroli-3b3229295/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Mauricio%20Quideroli&color=0A66C2&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
