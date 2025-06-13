@@ -1,7 +1,5 @@
 ## Olá 👋
 
-## Sobre mim
-
 - 😄 Meu nome é Mauricio e tenho 22 anos
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 💻 Entusiasta de tecnologia
@@ -21,11 +19,6 @@
 
 ## Onde me encontrar
 
-<p align="left">
-  <a href="mailto:mauricioquideroli@hotmail.com" title="Outlook">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mauricio-quideroli-3b3229295/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-quideroli-3b3229295/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/mauricio-quideroli-3b3229295/))
+
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mailto:mauricioquideroli@hotmail.com)
