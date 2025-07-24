@@ -27,4 +27,9 @@
   <a href="https://www.linkedin.com/in/mauricio-quideroli-3b3229295/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Mauricio%20Quideroli&color=0A66C2&style=for-the-badge" alt="LinkedIn" />
   </a>
+  <br>
+  <a href="https://mauriciocastaldelli.vercel.app/index.html" title="Portfólio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Portfólio&message=Abrir&color=0A66C2&style=for-the-badge" alt="Portfólio" />
+  </a>
 </p>
+
